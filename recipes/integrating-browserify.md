@@ -1,0 +1,3 @@
+# Integrating Browserify with Hapi
+
+To be completed...
