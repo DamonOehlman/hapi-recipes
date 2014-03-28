@@ -1,4 +1,4 @@
-# Host Provides View Layout, Plugins Provide View Content
+# Host App Provides View Layout
 
 This recipe provides you the ability to supply your [view layouts](1) from the host application (the glue that brings all the parts together) and provide generally style-free and layout-free HTML views for your plugins.
 
