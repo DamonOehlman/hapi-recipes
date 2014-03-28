@@ -21,10 +21,7 @@ var browserify = require('browserify');
 
 function browserifyJS(opts) {
   return function(request, reply) {
-    var b = browserify(opts);
-
-    debug('received browserify request for request: ', request.params);
-    b.add('./' + request.params.path);
+    var b = browserify([ './' + request.params.path ], opts);
     reply(b.bundle()).type('text/javascript');
   }
 }
