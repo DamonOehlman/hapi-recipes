@@ -41,6 +41,5 @@ plugin.views({
 });
 ```
 
-1. https://github.com/spumko/hapi/blob/master/docs/Reference.md#server.config.views
-
-2. https://github.com/spumko/hapi/blob/master/docs/Reference.md#server-options
+[1]: https://github.com/spumko/hapi/blob/master/docs/Reference.md#server.config.views
+[2]: https://github.com/spumko/hapi/blob/master/docs/Reference.md#server-options

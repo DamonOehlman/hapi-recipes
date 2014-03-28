@@ -47,4 +47,4 @@ plugin.route({
 });
 ```
 
-1. https://github.com/spumko/hapi/blob/master/docs/Reference.md#server-methods
+[1]: https://github.com/spumko/hapi/blob/master/docs/Reference.md#server-methods
