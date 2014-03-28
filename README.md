@@ -17,6 +17,7 @@ Also, feel free to fork this repo and add your own recipes!
 
 ## The Recipes
 
+- [Host Provides View Layout, Plugins Provide View Content](recipes/hostapp-layout-plugin-content.md)
 - [Integrating Browserify](recipes/integrating-browserify.md)
 
 ## License
